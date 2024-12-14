@@ -12,6 +12,7 @@ config/secrets.yaml
 *.pdf
 *.Rproj
 *.Rproj.user
+*.Rmd
 key.txt
 *.Rhistory
 *.venv
