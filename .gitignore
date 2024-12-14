@@ -1,0 +1,17 @@
+
+# Experiment results
+notebook/Rscripts/
+outputs/
+replications/
+data/
+
+# Credentials or sensitive info
+config/secrets.yaml
+
+#files
+*.pdf
+*.Rproj
+*.Rproj.user
+key.txt
+*.Rhistory
+*.venv
